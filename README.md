@@ -1,2 +1,13 @@
 # sql-data-analytics-project
-This repository comprises a curated collection of SQL scripts illustrating a variety of analytical approaches, including temporal trend analysis, cumulative computations, performance benchmarking, data segmentation, and part-to-whole analysis.
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm Exmond Yeboah, a Data Engineer and Computer Science student passionate about building reliable data systems and turning raw data into insights that matter. This project reflects my hands-on approach to learning — combining solid engineering fundamentals with real-world data warehousing practices.
